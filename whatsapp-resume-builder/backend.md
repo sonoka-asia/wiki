@@ -1,1 +1,1 @@
-use supabase and node js with express
+use supabase and node js with express start
